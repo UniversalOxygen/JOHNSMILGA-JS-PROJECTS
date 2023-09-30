@@ -1,4 +1,4 @@
-const numEl = document.querySelector(".value");
+const numEl = document.querySelector("#value");
 const decrEl = document.querySelector('.decrease');
 const resetEl = document.querySelector('.reset');
 const incrEl = document.querySelector('.increase');
